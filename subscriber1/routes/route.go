@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ersa97/nats-example/subscriber1/controllers"
+	"github.com/ersa97/NATS/subscriber1/controllers"
 )
 
 func HandleRequest(route string, param interface{}, data interface{}) {

@@ -1,4 +1,4 @@
-module github.com/ersa97/nats-example
+module github.com/ersa97/NATS
 
 go 1.18
 
