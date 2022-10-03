@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"nats/subscriber1/routes"
+
+	"github.com/ersa97/NATS/subscriber1/routes"
 
 	"github.com/ersa97/nats-libs/models"
 

@@ -1,8 +1,9 @@
 package main
 
 import (
-	"nats/publisher/controllers"
 	"net/http"
+
+	"github.com/ersa97/NATS/publisher/controllers"
 
 	"github.com/gorilla/mux"
 )
